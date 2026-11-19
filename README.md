@@ -207,7 +207,6 @@ The project demonstrates practical skills in data preparation, DAX calculations,
 - Power BI dashboard (.pbix)
 - Synthetic marketing dataset
 - Dashboard screenshots
-- Video walkthrough
 - Data generation methodology
 
 ---
